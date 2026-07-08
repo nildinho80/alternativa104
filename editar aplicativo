@@ -1,0 +1,80 @@
+{
+  "stream_url": "https://stm10.voxhd.com.br:6760/;",
+  "app_name": "Alternativa FM 104.9",
+  "logo_url": "https://i.ibb.co/W44s67Vm/Gemini-Generated-Image-9nsu2u9nsu2u9nsu.png",
+  "background_url": "https://i.ibb.co/WpFQdzLV/bg-image.jpg",
+  "bg_tint_color": "#0c0c0c",
+  "bg_tint_opacity": 0.68,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+  "enable_tv": true,
+  "tv_url": "link da transmissao aqui",
+  "tv_label": "TV Ao Vivo",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://"
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": "https://youtube.com/"
+    }
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/55"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/radio_104.9_alternativafm"
+    }
+  ]
+}
