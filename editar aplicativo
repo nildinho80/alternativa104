@@ -8,7 +8,6 @@
   "live_badge_text": "AO Vivo",
   "live_badge_color": "#09001D",
   "accent_color": "#000D13",
-  "Brancar": true,
   "enable_banners": true,
   "enable_social": true,
   "enable_recording": true,
