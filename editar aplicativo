@@ -1,72 +1,69 @@
-"stream_url": "https://stm10.voxhd.com.br:6760/stream",
-"radio_name": "RÁDIO 104 FM SANTA CRUZ",
-"radio_name": "RÁDIO 104 FM SANTA CRUZ",
-"Logo_URL": "https://i.ibb.co/1j7x8ql6/whats-app-image-2026-07-10-at-14-17-28.jpg"
-"background_url": "https://i.ibb.co/wpfqdzlv/bg-image.jpg",
-"BG_TINT_COLOR": "#0C0C,
-"bg_tint_opacity": 0,68,
-"live_badge_text": "AO Vivo",
-"live_badge_color": "#09001D",
-"accent_color": "#000D13",
-"Brancar": verdade,
-"enable_banners": Verdade,
-"enable_social": verdade,
-"enable_recording": Verdade,
-"enable_timer": Verdade,
-"enable_volume_bar" é Verdade,
-"enable_metadata": Verdade,
-"enable_album_art":
-"enable_album_view": Verdade,
-"BANNER_INTERVAL_MS": 7000,
-"sponsor_label": "colaboradores",
-
-"Enable_TV": Verdade,
-"TV_URL": "Link da Transmissao Aqui",
-"tv_label": "tv ao vivo",
-
-"Banners": [
+{
+  "stream_url": "https://stm10.voxhd.com.br:6760/stream",
+  "radio_name": "RÁDIO 104 FM SANTA CRUZ",
+  "Logo_URL": "https://i.ibb.co/1j7x8ql6/whats-app-image-2026-07-10-at-14-17-28.jpg",
+  "background_url": "https://i.ibb.co/wpfqdzlv/bg-image.jpg",
+  "BG_TINT_COLOR": "#0C0C0C",
+  "bg_tint_opacity": 0.68,
+  "live_badge_text": "AO Vivo",
+  "live_badge_color": "#09001D",
+  "accent_color": "#000D13",
+  "Brancar": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": true,
+  "enable_album_view": true,
+  "BANNER_INTERVAL_MS": 7000,
+  "sponsor_label": "colaboradores",
+  "Enable_TV": true,
+  "TV_URL": "Link da Transmissao Aqui",
+  "tv_label": "tv ao vivo",
+  "Banners": [
     {
-"Título": "Patrocinador. 1",
-"Legenda": "Clique e Fale no Whatsapp",
-"BG_COLOR": "#fdcb03",
-"text_color": "#000000",
-"image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
-"click_url": " "
-},
+      "title": "Patrocinador 1",
+      "subtitle": "Clique e Fale no Whatsapp",
+      "bg_color": "#fdcb03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "click_url": ""
+    },
     {
-"Título": "Patrocinador 2",
-"Legenda": "Clique e Fale no Whatsapp",
-"bg_color": "#fdcb03",
-"text_color": "#000000",
-"image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
-"click_url": ""
-},
+      "title": "Patrocinador 2",
+      "subtitle": "Clique e Fale no Whatsapp",
+      "bg_color": "#fdcb03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "click_url": ""
+    },
     {
-"title": "patrocinador 3",
-"Legenda": "Clique e Fale no WhatsApp",
-"bg_color": "#fdcb03",
-"text_color": "#000000",
-"image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
-"click_url": "https://"
-},
+      "title": "Patrocinador 3",
+      "subtitle": "Clique e Fale no WhatsApp",
+      "bg_color": "#fdcb03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "click_url": "https://"
+    },
     {
-"title": "Patrocinador 4",
-"Legenda": "Clique e Fale no WhatsApp",
-"bg_color": "#fdcb03",
-"text_color": "#000000",
-"image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
-"click_url": "https://wa.me/"
-},
+      "title": "Patrocinador 4",
+      "subtitle": "Clique e Fale no WhatsApp",
+      "bg_color": "#fdcb03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "click_url": "https://wa.me/"
+    },
     {
-"title": ",
-"subtitle": ","
-"bg_color": "#111111",
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://youtube.com/"
     }
   ],
-
   "social_icons": [
     {
       "icon": "whatsapp",
@@ -76,7 +73,7 @@
       "icon": "instagram",
       "url": "https://www.instagram.com/radio_104.9_alternativafm"
     },
-{
+    {
       "icon": "facebook",
       "url": "https://www.facebook.com/nova104fmalternativa/"
     }
