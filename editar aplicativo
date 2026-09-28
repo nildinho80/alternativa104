@@ -1,57 +1,60 @@
 {
-  "stream_url": "https://stm10.voxhd.com.br:6760/stream",
-  "radio_name": "RÁDIO 104 FM SANTA CRUZ",
-  "Logo_URL": "https://i.ibb.co/1j7x8ql6/whats-app-image-2026-07-10-at-14-17-28.jpg",
-  "background_url": "https://i.ibb.co/wpfqdzlv/bg-image.jpg",
-  "BG_TINT_COLOR": "#0C0C0C",
+  "stream_url": "https://stm10.voxhd.com.br:6760/;",
+  "app_name": "Alternativa FM 104.9",
+  "logo_url": "https://i.ibb.co/W44s67Vm/Gemini-Generated-Image-9nsu2u9nsu2u9nsu.png",
+  "background_url": "https://i.ibb.co/WpFQdzLV/bg-image.jpg",
+  "bg_tint_color": "#0c0c0c",
   "bg_tint_opacity": 0.68,
-  "live_badge_text": "AO Vivo",
-  "live_badge_color": "#09001D",
-  "accent_color": "#000D13",
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
   "enable_banners": true,
   "enable_social": true,
   "enable_recording": true,
   "enable_timer": true,
   "enable_volume_bar": true,
   "enable_metadata": true,
-  "enable_album_art": true,
+  "enable_album_art": false,
   "enable_album_view": true,
-  "BANNER_INTERVAL_MS": 7000,
-  "sponsor_label": "colaboradores",
-  "Enable_TV": true,
-  "TV_URL": "Link da Transmissao Aqui",
-  "tv_label": "tv ao vivo",
-  "Banners": [
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Colaboradores",
+
+  "enable_tv": true,
+  "tv_url": "link da transmissao aqui",
+  "tv_label": "TV Ao Vivo",
+
+  "banners": [
     {
-      "title": "Patrocinador 1",
-      "subtitle": "Clique e Fale no Whatsapp",
-      "bg_color": "#fdcb03",
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": ""
     },
     {
-      "title": "Patrocinador 2",
-      "subtitle": "Clique e Fale no Whatsapp",
-      "bg_color": "#fdcb03",
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
-      "click_url": ""
-    },
-    {
-      "title": "Patrocinador 3",
-      "subtitle": "Clique e Fale no WhatsApp",
-      "bg_color": "#fdcb03",
-      "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://"
     },
     {
-      "title": "Patrocinador 4",
-      "subtitle": "Clique e Fale no WhatsApp",
-      "bg_color": "#fdcb03",
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkgm8xn/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
       "click_url": "https://wa.me/"
     },
     {
@@ -63,18 +66,15 @@
       "click_url": "https://youtube.com/"
     }
   ],
+
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/551499706-1213"
+      "url": "https://wa.me/55"
     },
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/radio_104.9_alternativafm"
-    },
-    {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/nova104fmalternativa/"
     }
   ]
 }
